@@ -39,8 +39,8 @@ O Food Explorer é uma aplicação web que permite aos usuários visualizar, adi
 
 ## Uso
 1. Inicie o servidor.
-   ```sh
-  npm run dev
+   ````sh
+   npm run dev
 
 ## Link do Deploy
 
