@@ -20,9 +20,6 @@ O Food Explorer é uma aplicação web que permite aos usuários visualizar, adi
 ### Formulário de Adição de Prato
 ![Formulário de Adição de Prato](./previews/add-prato.png)
 
-### Lista de Pratos
-![Lista de Pratos](./previews/lista-pratos.png)
-
 ## Instalação
 
 1. Clone o repositório:
